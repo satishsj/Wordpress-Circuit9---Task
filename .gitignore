@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="Gallery%20_%20Q-dat_circuit9.in_files/logo_002.png"> 
+		<link rel="pingback" href="http://localhost:81/wordpress/xmlrpc.php">
+	<title>Gallery | Q-dat.in</title>
+
+	<link rel="alternate" type="application/rss+xml" title="Q-dat.in » Feed" href="http://localhost:81/wordpress/feed/">
+<link rel="alternate" type="application/rss+xml" title="Q-dat.in » Comments Feed" href="http://localhost:81/wordpress/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/localhost:81\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/wp-emoji-release.js"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="open-sans-css" href="Gallery%20_%20Q-dat_circuit9.in_files/css_002.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="Gallery%20_%20Q-dat_circuit9.in_files/dashicons.css" type="text/css" media="all">
+<link rel="stylesheet" id="admin-bar-css" href="Gallery%20_%20Q-dat_circuit9.in_files/admin-bar.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpcs_style.css-css" href="Gallery%20_%20Q-dat_circuit9.in_files/style_003.css" type="text/css" media="all">
+<link rel="stylesheet" id="forkit-ribbon-css" href="Gallery%20_%20Q-dat_circuit9.in_files/forkit.css" type="text/css" media="all">
+<link rel="stylesheet" id="appointment-style-css" href="Gallery%20_%20Q-dat_circuit9.in_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="appointment-default-css" href="Gallery%20_%20Q-dat_circuit9.in_files/default.css" type="text/css" media="all">
+<link rel="stylesheet" id="appointment-bootstrap-css-css" href="Gallery%20_%20Q-dat_circuit9.in_files/bootstrap.css" type="text/css" media="all">
+<link rel="stylesheet" id="appointment-menu-css-css" href="Gallery%20_%20Q-dat_circuit9.in_files/theme-menu.css" type="text/css" media="all">
+<link rel="stylesheet" id="appointment-font-awesome-min-css" href="Gallery%20_%20Q-dat_circuit9.in_files/font-awesome.css" type="text/css" media="all">
+<link rel="stylesheet" id="appointment-media-responsive-css-css" href="Gallery%20_%20Q-dat_circuit9.in_files/media-responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="appointment-fonts-css" href="Gallery%20_%20Q-dat_circuit9.in_files/css.css" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="Gallery%20_%20Q-dat_circuit9.in_files/style_002.css" type="text/css" media="all">
+<link rel="stylesheet" id="child-style-css" href="Gallery%20_%20Q-dat_circuit9.in_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="child-menu-css" href="Gallery%20_%20Q-dat_circuit9.in_files/theme-menu_002.css" type="text/css" media="all">
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/jquery_002.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/jquery-migrate.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/jquery.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/bootstrap.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/menu.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/page-scroll.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/carousel.js"></script>
+<link rel="https://api.w.org/" href="http://localhost:81/wordpress/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:81/wordpress/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:81/wordpress/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.4.2">
+<link rel="canonical" href="http://localhost:81/wordpress/blog/23-2/">
+<link rel="alternate" type="application/json+oembed" href="http://localhost:81/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A81%2Fwordpress%2Fblog%2F23-2%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://localhost:81/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A81%2Fwordpress%2Fblog%2F23-2%2F&amp;format=xml">
+
+<!-- Contact Us Form -->
+<style type="text/css">
+.cuf_input {display:none !important; visibility:hidden !important;}
+#contactsubmit:hover, #contactsubmit:focus {
+	background: #849F00 repeat-x;
+	color: #FFF;
+	text-decoration: none;
+}
+#contactsubmit:active {background: #849F00}
+#contactsubmit {
+	color: #FFF;
+	background: #738c00 repeat-x;
+	display: block;
+	float: left;
+	height: 28px;
+	padding-right: 23px;
+	padding-left: 23px;
+	font-size: 12px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+	filter: dropshadow(color=rgba(0, 0, 0, 0.2), offx=0, offy=1);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-transition: background 300ms linear;
+-moz-transition: background 300ms linear;
+-o-transition: background 300ms linear;
+transition: background 300ms linear;
+-webkit-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+text-align:center
+}
+.cuf_field {
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	background:#fff;
+	border:1px solid #A9B3BC;
+	padding:8px;
+	width:100%;
+	margin-top:5px;
+margin-bottom:15px;
+	outline:none
+}
+#tinyform {
+clear: both;
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+	/*margin-top:30px;*/
+	padding:20px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	-webkit-box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2);
+	box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2);
+	border:4px solid #FFF;
+	-webkit-transition:all 200ms linear;
+	-moz-transition:all 200ms linear;
+	-o-transition:all 200ms linear;
+	transition:all 200ms linear;
+}
+.cuf_textarea {
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	background:#fff;
+	border:1px solid #A9B3BC;
+	padding:8px;
+	width:100%;
+	margin-top:5px;
+	outline:none;
+margin-bottom:15px;
+}
+</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	</head>
+	<body class="page page-id-23 page-child parent-pageid-17 page-template-default logged-in admin-bar  customize-support">
+
+
+
+<!--Logo & Menu Section-->	
+<nav class="navbar navbar-default">
+	<div class="container">
+		<!-- Brand and toggle get grouped for better mobile display -->
+		<div class="navbar-header">
+								<h1><a class="navbar-brand" href="http://localhost:81/wordpress/" title="Appointment">
+									<img src="Gallery%20_%20Q-dat_circuit9.in_files/logo.png">
+									</a></h1>
+					
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		
+		
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul id="menu-unnamed" class="nav navbar-nav navbar-right"><li id="menu-item-16" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16"><a href="http://localhost:81/wordpress/wp-admin/admin.php?page=hrm_management">E-Leave</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://localhost:81/wordpress/sample-page/">About</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://localhost:81/wordpress/contact-us/">Contact Us</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-23 current_page_item menu-item-34 active"><a href="http://localhost:81/wordpress/blog/23-2/">Gallery</a></li>
+<ul class="head-contact-social"><li class="facebook"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li><li class="twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li><li class="linkedin"><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li></ul></ul>		</div><!-- /.navbar-collapse -->
+	</div><!-- /.container-fluid -->
+</nav>	
+<!--/Logo & Menu Section-->	
+<div class="clearfix"></div><!-- Page Title Section -->
+<div class="page-title-section">		
+	<div class="overlay">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="page-title"><h1>Gallery</h1></div>
+				</div>
+				<div class="col-md-6">
+					<ul class="page-breadcrumb">
+						<li><a href="http://localhost:81/wordpress">Home</a> &nbsp; / &nbsp;<a href="http://localhost:81/wordpress/blog/">E-Leave</a>&nbsp; / &nbsp;  </li><li class="active">Gallery</li>					</ul>
+				</div>
+			</div>
+		</div>	
+	</div>
+</div>
+<!-- /Page Title Section -->
+
+<!-- Page Seperator --><div class="page-seperator"></div><!-- /Page Seperator -->
+
+<div class="clearfix"></div><!-- Blog Section with Sidebar -->
+<div class="blog-section-md">
+	<div class="container">
+		<div class="row">
+			<!-- Blog Area -->
+			<div class="col-md-8">
+					
+			<div id="post-23" class="blog-lg-area-left post-23 page type-page status-publish hentry">
+<div class="media">						
+			    <!--show date of post-->
+		<aside class="blog-post-date-area">
+			<div class="date">9 <div class="month-year">Feb,2016</div></div>
+			<div class="comment"><a href="http://localhost:81/wordpress/blog/23-2/"><i class="fa fa-comments"></i>0</a></div>
+		</aside>
+				<div class="media-body">
+						<div class="blog-post-lg">
+				<a href="http://localhost:81/wordpress/author/sateesh/"><img alt="" src="Gallery%20_%20Q-dat_circuit9.in_files/aac35adc0a5385685b389da88fa09f35.jpg" srcset="http://1.gravatar.com/avatar/aac35adc0a5385685b389da88fa09f35?s=80&amp;d=mm&amp;r=g 2x" class="img-responsive img-circle avatar-40 photo" height="40" width="40"></a>By<a href="http://localhost:81/wordpress/author/sateesh/">sateesh</a>
+							</div>
+							
+		<style type="text/css">
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 14%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id="gallery-1" class="gallery galleryid-23 gallery-columns-7 gallery-size-thumbnail"><dl class="gallery-item">
+			<dt class="gallery-icon portrait">
+				<a href="http://localhost:81/wordpress/logo/"><img src="Gallery%20_%20Q-dat_circuit9.in_files/logo_002.png" class="attachment-thumbnail size-thumbnail" alt="Q-dat.in | IT SOLUTIONS" height="130" width="120"></a>
+			</dt></dl><dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<a href="http://localhost:81/wordpress/blog/23-2/1f0bdbd/"><img src="Gallery%20_%20Q-dat_circuit9.in_files/1f0bdbd-150x150.png" class="attachment-thumbnail size-thumbnail" alt="1f0bdbd" height="150" width="150"></a>
+			</dt></dl><dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<a href="http://localhost:81/wordpress/blog/23-2/13266f/"><img src="Gallery%20_%20Q-dat_circuit9.in_files/13266f-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="13266f" height="150" width="150"></a>
+			</dt></dl><dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<a href="http://localhost:81/wordpress/blog/23-2/circuit9-in/"><img src="Gallery%20_%20Q-dat_circuit9.in_files/circuit9.png" class="attachment-thumbnail size-thumbnail" alt="circuit9.in" height="150" width="150"></a>
+			</dt></dl><dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<a href="http://localhost:81/wordpress/blog/23-2/circuit9/"><img src="Gallery%20_%20Q-dat_circuit9.in_files/circuit9-150x150.png" class="attachment-thumbnail size-thumbnail" alt="circuit9" height="150" width="150"></a>
+			</dt></dl><dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<a href="http://localhost:81/wordpress/blog/23-2/circuit9_1/"><img src="Gallery%20_%20Q-dat_circuit9.in_files/circuit9_1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="circuit9_1" height="150" width="150"></a>
+			</dt></dl>
+			<br style="clear: both">
+		</div>
+
+		</div>
+	</div>
+	<div class="blog-btn-area-lg"></div>
+</div>												</div>
+			<!-- /Blog Area -->			
+			
+			<!--Sidebar Area-->
+			<div class="col-md-4">
+				<div class="sidebar-section-right">
+	<div class="sidebar-widget"><form class="appointment-search" action="http://localhost:81/wordpress/" method="get">
+<input class="search_widget_input" name="s" id="s" placeholder="Search" type="text">
+<br>
+<br><br><br>	
+</form></div>		<div class="sidebar-widget">		<div class="sidebar-widget-title"><h3>Recent Posts</h3></div>		<ul>
+					<li>
+				<a href="http://localhost:81/wordpress/2016/02/03/hello-world/">Hello world!</a>
+						</li>
+				</ul>
+		</div>		<div class="sidebar-widget"><div class="sidebar-widget-title"><h3>Recent Comments</h3></div><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="https://wordpress.org/" rel="external nofollow" class="url">Mr WordPress</a></span> on <a href="http://localhost:81/wordpress/2016/02/03/hello-world/#comment-1">Hello world!</a></li></ul></div><div class="sidebar-widget"><div class="sidebar-widget-title"><h3>Archives</h3></div>		<ul>
+			<li><a href="http://localhost:81/wordpress/2016/02/">February 2016</a></li>
+		</ul>
+		</div><div class="sidebar-widget"><div class="sidebar-widget-title"><h3>Categories</h3></div>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://localhost:81/wordpress/category/uncategorized/">Uncategorized</a>
+</li>
+		</ul>
+</div><div class="sidebar-widget"><div class="sidebar-widget-title"><h3>Meta</h3></div>			<ul>
+			<li><a href="http://localhost:81/wordpress/wp-admin/">Site Admin</a></li>			<li><a href="http://localhost:81/wordpress/wp-login.php?action=logout&amp;_wpnonce=962d8daa06">Log out</a></li>
+			<li><a href="http://localhost:81/wordpress/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://localhost:81/wordpress/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</div></div>
+			</div>
+			<!--Sidebar Area-->
+		</div>
+	</div>
+</div>
+<!-- /Blog Section with Sidebar -->
+<!-- Footer Section -->
+	
+			<div class="clearfix"></div>
+		
+	
+
+<!-- /Footer Section -->
+<div class="clearfix"></div>
+<!-- Footer Copyright Section -->
+<div class="footer-copyright-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="footer-copyright">
+										No copyright information has been saved yet.					
+									</div>
+			</div>
+							<div class="col-md-4">
+			<ul class="footer-contact-social">
+										<li class="facebook"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+										<li class="twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+										<li class="linkedin"><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+										<li class="googleplus"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+										<li class="skype"><a href="#" target="_blank"><i class="fa fa-skype"></i></a></li>
+									</ul>
+			</div>
+					</div>
+	</div>
+</div>
+<!-- /Footer Copyright Section -->
+<!--Scroll To Top--> 
+<a href="#" class="hc_scrollup"><i class="fa fa-chevron-up"></i></a>
+<!--/Scroll To Top--> 
+<a style="transform: translate(0px, 0px) rotate(0deg);" class="forkit" data-text="Enter u r details" data-text-detached="Drag down &gt;" href="http://localhost:81/wordpress/contact-us/"><span style="transform: translate(80px, 0px) rotate(76.113deg);" class="string"></span><span style="transform: translate(81.4px, -9.33736px) rotate(48.0183deg);" class="tag">Drag down &gt;</span></a>
+
+	<div style="top: -100%;" class="forkit-curtain">
+		<button class="close-link close-button">
+			<span class="screen-reader-text">Close ribbon curtain</span>
+		</button>
+		
+
+<h1> Hello Guys Good To See U All Again..... Thank U</h1>
+
+
+	</div>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/admin-bar.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/forkit.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/comment-reply.js"></script>
+<script type="text/javascript" src="Gallery%20_%20Q-dat_circuit9.in_files/wp-embed.js"></script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+			request = true;
+
+			b[c] = b[c].replace( rcs, ' ' );
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:81/wordpress/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/about.php">About WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wordpress.org/support/">Support Forums</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:81/wordpress/wp-admin/">Q-dat.in</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/">Dashboard</a>		</li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu">
+		<li id="wp-admin-bar-themes"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/themes.php">Themes</a>		</li>
+		<li id="wp-admin-bar-widgets"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/widgets.php">Widgets</a>		</li>
+		<li id="wp-admin-bar-menus"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/nav-menus.php">Menus</a>		</li>
+		<li id="wp-admin-bar-header" class="hide-if-customize"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/themes.php?page=custom-header">Header</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%3A81%2Fwordpress%2Fblog%2F23-2%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/edit-comments.php" title="0 comments awaiting moderation"><span class="ab-icon"></span><span id="ab-awaiting-mod" class="ab-label awaiting-mod pending-count count-0">0</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://localhost:81/wordpress/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/post-new.php">Post</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/media-new.php">Media</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/post-new.php?post_type=page">Page</a>		</li>
+		<li id="wp-admin-bar-new-wpcs"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/post-new.php?post_type=wpcs">WP Contact Slider</a>		</li>
+		<li id="wp-admin-bar-new-user"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/user-new.php">User</a>		</li>
+		<li id="wp-admin-bar-pps-admin-bar-new-item"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/admin.php?page=popup-wp-supsystic&amp;tab=popup_add_new">PopUp</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/post.php?post=23&amp;action=edit">Edit Page</a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost:81/wordpress/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" maxlength="150" type="text"><label for="adminbar-search" class="screen-reader-text">Search</label><input class="adminbar-button" value="Search" type="submit"></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://localhost:81/wordpress/wp-admin/profile.php">Howdy, sateesh<img alt="" src="Gallery%20_%20Q-dat_circuit9.in_files/aac35adc0a5385685b389da88fa09f35_002.jpg" srcset="http://1.gravatar.com/avatar/aac35adc0a5385685b389da88fa09f35?s=52&amp;d=mm&amp;r=g 2x" class="img-responsive img-circle avatar-26 photo" height="26" width="26"></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://localhost:81/wordpress/wp-admin/profile.php"><img alt="" src="Gallery%20_%20Q-dat_circuit9.in_files/aac35adc0a5385685b389da88fa09f35_003.jpg" srcset="http://1.gravatar.com/avatar/aac35adc0a5385685b389da88fa09f35?s=128&amp;d=mm&amp;r=g 2x" class="img-responsive img-circle avatar-64 photo" height="64" width="64"><span class="display-name">sateesh</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://localhost:81/wordpress/wp-admin/profile.php">Edit My Profile</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://localhost:81/wordpress/wp-login.php?action=logout&amp;_wpnonce=962d8daa06">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost:81/wordpress/wp-login.php?action=logout&amp;_wpnonce=962d8daa06">Log Out</a>
+					</div>
+
+		
+<span id="easybtn_r" style="position: fixed; z-index: 999999999999;top:0px;left:0px; font-size: 12px; padding: 0 4px; display: inline-block; cursor: pointer; margin: 0px; color: white; border: 1px solid white; box-shadow: 1px 1px 1px rgba(0,0,0,.3); -moz-box-shadow: 1px 1px 1px rgba(0,0,0,.3);font-family: sans-serif; background-color: #167ac6;">R</span></body></html>
