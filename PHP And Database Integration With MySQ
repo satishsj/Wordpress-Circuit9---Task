@@ -1,0 +1,13 @@
+Title: PHP And Database Integration With MySQL
+Description: One of the defining features of PHP is the versatility it offers for connection to, and manipulation with, databases. In this article, we look at some features of the PHP and MySQL combination. We shall go through the following steps:- 
+&#8226;	Connect to MySQL Database Server 
+&#8226;	Create new Database 
+&#8226;	Select MySQL Database 
+&#8226;	Add data to table 
+&#8226;	Retrieve data 
+&#8226;	Error Handling 
+
+This file came from Planet-Source-Code.com...the home millions of lines of source code
+You can view comments on this code/and or vote on it at: http://www.Planet-Source-Code.com/vb/scripts/ShowCode.asp?txtCodeId=2116&lngWId=8
+
+The author may have retained certain copyrights to this code...please observe their request and the law by reviewing all copyright conditions at the above URL.
